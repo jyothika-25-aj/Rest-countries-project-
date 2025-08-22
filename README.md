@@ -66,8 +66,7 @@ Features
 Folder Structure
 -----------------
 - lambda_functions/       # AWS Lambda scripts
-- kafka/                  # Kafka producer and consumer code
-- glue_jobs/              # Spark ETL scripts
-- configs/                # Configurations for AWS, Kafka, Snowflake
-- sql_scripts/            # Snowflake setup and queries
+- flask_kafka_producer/   # Kafka producer and consumer code
+- Glue_spark_script/      # Spark ETL scripts
+- snowflake_integration   # Snowflake setup and queries
 - README.md               # Project documentatio
