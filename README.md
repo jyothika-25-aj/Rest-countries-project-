@@ -69,4 +69,4 @@ Folder Structure
 - flask_kafka_producer/   # Kafka producer and consumer code
 - Glue_spark_script/      # Spark ETL scripts
 - snowflake_integration   # Snowflake setup and queries
-- README.md               # Project documentatio
+- README.md               # Project documentation
